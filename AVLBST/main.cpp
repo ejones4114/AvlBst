@@ -43,6 +43,5 @@ int main(int argc, const char * argv[]) {
    }
    
    std::cout << "Tree height is " << catTree.getHeight();
-   
    return 0;
 }
